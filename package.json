@@ -4,9 +4,9 @@
   "description": "A starting point for Node.js express apps with TypeScript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/TypeScript-Node-Starter"
+    "url": "https://github.com/c10t/learn-node"
   },
-  "author": "Bowden Kelly",
+  "author": "c10t",
   "license": "MIT",
   "scripts": {
     "start": "npm run serve",
