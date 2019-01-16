@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/c10t/learn-node/issues"
   },
-  "homepage": "https://github.com/c10t/learn-node#readme"
+  "homepage": "https://github.com/c10t/learn-node#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
 }
