@@ -22,10 +22,10 @@
     "@types/mkdirp": "^0.5.2",
     "@types/node": "^10.12.18",
     "@types/slug": "^0.9.1",
-    "ts-loader": "^5.3.3",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.2.2",
-    "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "axios": "^0.18.0",
